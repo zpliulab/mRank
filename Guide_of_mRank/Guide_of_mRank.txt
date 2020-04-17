@@ -1,0 +1,6 @@
+(1)data prepare:
+ DEGs,Regnetwork, RNA-seq data,and its labels
+(2)input DEGs,Regnetwork, RNA-seq data,and its labels, run module_detect.R
+(3)run delete_repeated.R
+(3)inputRegnetwork,module_final.csv, run reg_block_rank.m
+(4)get reg_supergraph_info_resulst.csv

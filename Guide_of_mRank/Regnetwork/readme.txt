@@ -1,2 +1,1 @@
-we download RegNetwork from its database, we then use preprocessed, normalized, filtered TCGA HCC data to calculate differential mutual information
-by infotheo package for each edge,we select these edges whose DMI >0.
+we download RegNetwork from its database, we then use preprocessed (including filtering and normalizing )TCGA HCC data to calculate DMI(differential mutual information) by infotheo package for each edge, we select these edges whose DMI >0.
